@@ -1,0 +1,33 @@
+{
+  "name": "Parking-Allocation-System",
+  "version": "1.0.0",
+  "description": "A web application for managing parking allocations.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "parking",
+    "allocation",
+    "system",
+    "nextjs",
+    "react"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "24.0.12",
+    "@types/react": "19.1.8",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "typescript": "latest"
+  }
+}
