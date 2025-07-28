@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[309],{7808:(n,_,e)=>{"use strict";e.r(_),e.d(_,{default:()=>i});var u=e(7876);function i(){return(0,u.jsx)("h1",{children:"Welcome, Admin!"})}},8210:(n,_,e)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/admin",function(){return e(7808)}])}},n=>{n.O(0,[636,593,792],()=>n(n.s=8210)),_N_E=n.O()}]);
