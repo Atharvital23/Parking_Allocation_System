@@ -8,12 +8,5 @@ export default function Home() {
   useEffect(() => {
     router.replace("/login");
   }, [router]);
-  return (
-    <div style={{ textAlign: "center", marginTop: 100 }}>
-      <h1>Welcome to Parking Allocation System</h1>
-      <Link href="/login">
-        <button>Go to Login</button>
-      </Link>
-    </div>
-  );
+  return null;
 }
